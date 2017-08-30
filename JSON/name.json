@@ -1,0 +1,8 @@
+var names = {
+  "teachers": [
+    "kyle",
+    "Arron",
+    "Danny",
+    "Peter"
+  ]
+}
